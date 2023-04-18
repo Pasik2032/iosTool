@@ -10,10 +10,8 @@ class HedgehogMerge {
 
   func run() {
 
-//    let folder = Folder.current
-    let folder = try! Folder(path: arguments[3])
+    let folder = Folder.current
     guard
-      arguments.count > 2,
       let project = seachProject(folder: folder),
       let bdprofect = project.files.first(where: { $0.extension ==  "pbxproj" }),
       let bdProfectString = try? bdprofect.readAsString()
@@ -22,11 +20,11 @@ class HedgehogMerge {
       return
     }
 
-    let version: String = arguments[1] + ";"
-    let build: String = arguments[2] + ";"
-
-
     var lines = bdProfectString.components(separatedBy: "\n")
+    let v = sechConflict(lines: lines)
+
+    let version = v.0 + ";"
+    let build = v.1 + ";"
 
 
     var i = 0
@@ -55,6 +53,34 @@ class HedgehogMerge {
     }
 
     try? bdprofect.write(lines.joined(separator: "\n"))
+  }
+
+
+  private func sechConflict(lines: [String]) -> (String, String) {
+    var i = 0
+    var v1 = ""
+    var v2 = ""
+    var build1 = ""
+    var build2 = ""
+    while i < lines.count {
+      if lines[i].contains("<<<<<<<"),
+        (lines[i+1].contains("MARKETING_VERSION") || lines[i+1].contains("CURRENT_PROJECT_VERSION")),
+        lines[i+2].contains("======="),
+        (lines[i+3].contains("MARKETING_VERSION") || lines[i+3].contains("CURRENT_PROJECT_VERSION")),
+        lines[i+4].contains(">>>>>>>") {
+        if lines[i+1].contains("MARKETING_VERSION") {
+          v1 = String(lines[i+1].split(separator: " ")[2])
+          v2 = String(lines[i+3].split(separator: " ")[2])
+        } else {
+          build1 = String(lines[i+1].split(separator: " ")[2])
+          build2 = String(lines[i+3].split(separator: " ")[2])
+        }
+      }
+      i += 1
+    }
+    print("Обнаружен конфликт в версиях \(v1) \(build1) и \(v2) \(build2)")
+    let line = readLine()?.split(separator: " ")
+    return (String(line![0]), String(line![1]))
   }
 
 

@@ -19,19 +19,25 @@ enum Command {
   case update(folder: Folder?)
 
   init?(arguments: [String]) {
-    guard arguments.count > 2 else { return nil }
+    guard arguments.count >= 2 else { return nil }
     switch arguments[1] {
-    case "init":
+    case "create":
       if let type = TypeAccet(rawValue: arguments[2]) {
         self = .create(type: type)
       } else {
         return nil
       }
     case "detect":
-      let folder = try? Folder(path: arguments[2])
+      var folder: Folder = Folder.current
+      if arguments.count > 2 {
+        folder = (try?  Folder(path: arguments[2])) ?? Folder.current
+      }
       self  = .detect(folder: folder)
     case "update":
-      let folder = try? Folder(path: arguments[2])
+      var folder: Folder = Folder.current
+      if arguments.count > 2 {
+         folder = (try?  Folder(path: arguments[2])) ?? Folder.current
+      }
       self = .update(folder: folder)
     default: return nil
     }

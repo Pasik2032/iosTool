@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1AD51588-5061-4F49-AF60-DBCC3A35669E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CF63228-1B73-4CF7-9E3B-7D3BDA268FAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageHanghog/Sources/ImageHanghog/ImageHanghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "allFolderAccet(folder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7E148C7-54B0-4BBD-899C-0D6A52987A6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "run()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7E148C7-54B0-4BBD-899C-0D6A52987A6F - ee3c68f7b6f075c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempleteHenghog.TempleteHenghog.run() -&gt; ()"
+                  moduleName = "TempleteHenghog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "4808">
+               </Location>
+               <Location
+                  uuid = "C7E148C7-54B0-4BBD-899C-0D6A52987A6F - 6db70562efc88e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Files.File) -&gt; () in TempleteHenghog.TempleteHenghog.run() -&gt; ()"
+                  moduleName = "TempleteHenghog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "021E66E2-982F-491B-A4E1-2BD0FED6CB45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D10A6F20-C7C3-4AC8-9F1C-D482DF7723A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "run()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D10A6F20-C7C3-4AC8-9F1C-D482DF7723A2 - ee3c68f7b6f075c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempleteHenghog.TempleteHenghog.run() -&gt; ()"
+                  moduleName = "TempleteHenghog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "4808">
+               </Location>
+               <Location
+                  uuid = "D10A6F20-C7C3-4AC8-9F1C-D482DF7723A2 - 6db70562efc88e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Files.File) -&gt; () in TempleteHenghog.TempleteHenghog.run() -&gt; ()"
+                  moduleName = "TempleteHenghog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C105BDF-FBAE-43FE-B2EE-8C72B42696E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "453"
+            endingLineNumber = "453"
+            landmarkName = "replaceKey(_:dic:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "548D13E8-6EB7-4B31-9E4E-27AD4075BD9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
+            landmarkName = "seachProject(folder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C81C8B3B-DA92-4B3E-937E-9CAC56E9283A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "run()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C81C8B3B-DA92-4B3E-937E-9CAC56E9283A - ee3c68f7b6f075ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempleteHenghog.TempleteHenghog.run() -&gt; ()"
+                  moduleName = "TempleteHenghog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "3141">
+               </Location>
+               <Location
+                  uuid = "C81C8B3B-DA92-4B3E-937E-9CAC56E9283A - 378d3a8fcd87dcb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Files.Folder) -&gt; Swift.Bool in TempleteHenghog.TempleteHenghog.run() -&gt; ()"
+                  moduleName = "TempleteHenghog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E1E94B-30E5-4E5B-B466-8474CC393BC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "416"
+            endingLineNumber = "416"
+            landmarkName = "fingPath(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FF87406-5307-43DC-AFEB-654D1F8468F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "356"
+            endingLineNumber = "356"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "122638B7-F561-417F-B70A-7449AA51E9D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "413B758F-6AA5-4BDC-98A9-F262EE174B53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "392"
+            endingLineNumber = "392"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A406D05-52E6-4619-A6DF-F9F1F904B6B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "397"
+            endingLineNumber = "397"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73676F31-BE53-461B-886C-CE7D427E9467"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "404"
+            endingLineNumber = "404"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB9704D8-4E15-4DC4-965E-FE071B95DF85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "346"
+            endingLineNumber = "346"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69ACE000-1554-45BC-9F1A-6CA3DF69EA61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C644989D-EE05-49D0-AE7F-64BF4A73369B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "349"
+            endingLineNumber = "349"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D849320F-82EC-41E4-804A-CADBA17D06F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20673550-6196-49E9-B422-04F6F3608BF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "501ABDE1-15A9-4161-AC89-4FA49FB240F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "405"
+            endingLineNumber = "405"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F26EF268-FAD4-4C7F-ACF3-99D09C9003EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "410"
+            endingLineNumber = "410"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9338F9B4-4C9D-4222-9D08-A9EA300F6B8A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "411"
+            endingLineNumber = "411"
+            landmarkName = "findUUID(file:parent:parentName:name:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "205E7439-24FF-450F-8674-45D7FA9B47A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E33CA45-5EF7-45D9-A9F1-4B8DF11BAF06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCB76740-566F-41AC-A20A-C7FD4DCA0F7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79B98B1D-4F25-41A7-9024-C8C83E8F67B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D1F71FC-6DAD-43C9-AD34-4526026792F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempleteHenghog/Sources/TempleteHenghog/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C9C6BBA-F48D-45A4-92DE-497C40BDD381"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MergeHenghog/Sources/MergeHenghog/MergeHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D0DAE3A-96F3-4CD9-9450-791C2BEE4E13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MergeHenghog/Sources/MergeHenghog/MergeHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "run()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4BE662C-989A-4D8E-A0E5-5D28465EE74E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "init?(folder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1863F629-6199-4E8A-B6BF-90C008F3C5D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "seach(folder:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1863F629-6199-4E8A-B6BF-90C008F3C5D8 - fcb8da8ae8c8ebd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "1863F629-6199-4E8A-B6BF-90C008F3C5D8 - 300e91002e0c6fdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Files.Folder) -&gt; Swift.Bool in seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "012AE8C9-3268-4EB0-B770-253BC9A44999"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "seach(folder:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "012AE8C9-3268-4EB0-B770-253BC9A44999 - fcb8da8ae8c8eb79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "437">
+               </Location>
+               <Location
+                  uuid = "012AE8C9-3268-4EB0-B770-253BC9A44999 - fcb8da8ae8c8eb79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "485">
+               </Location>
+               <Location
+                  uuid = "012AE8C9-3268-4EB0-B770-253BC9A44999 - fcb8da8ae8c8eb79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "723">
+               </Location>
+               <Location
+                  uuid = "012AE8C9-3268-4EB0-B770-253BC9A44999 - cf283d985f1da4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Files.File) -&gt; Swift.Bool in seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99CBBA55-081E-4ADB-8B68-99509F5F042C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "seach(folder:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "99CBBA55-081E-4ADB-8B68-99509F5F042C - fcb8da8ae8c8ebb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "99CBBA55-081E-4ADB-8B68-99509F5F042C - 392d9c34cb2970bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Files.File) -&gt; Swift.Bool in seach(folder: Files.Folder) -&gt; Swift.Optional&lt;HedgehogTemplate.TypeProject&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B904CC81-DC84-4CEA-B9D5-625BE638A0C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "seach(folder:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E3572BC-436C-40A3-88B1-92DF393A7811"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/TypeProject.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "seach(folder:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB1C5952-F874-44D3-B802-D1DD99251C06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3158F075-B2C9-4FC3-9DB8-FC63CCB93989"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "098E0980-0DC6-495A-9446-5247D20DB736"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "446C6390-4123-43B2-846E-177F375E8735"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2E0CEB7-FAF7-419C-94A9-8EE8E96CC7AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXBuildFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "init?(parseLine:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63D0E7DF-66A7-431E-9604-0B6873466EBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXBuildFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "init?(parseLine:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63D0E7DF-66A7-431E-9604-0B6873466EBD - d779347eced8dd8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.PBXBuildFile.init(parseLine: Swift.String) -&gt; Swift.Optional&lt;HedgehogTemplate.PBXBuildFile&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXBuildFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "790">
+               </Location>
+               <Location
+                  uuid = "63D0E7DF-66A7-431E-9604-0B6873466EBD - d779347eced8dd8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.PBXBuildFile.init(parseLine: Swift.String) -&gt; Swift.Optional&lt;HedgehogTemplate.PBXBuildFile&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXBuildFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A3B7903-8E59-4402-88C8-60B1215E9F7A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "init?(parsLine:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67C5717C-2473-4D07-9AD1-48D3EE160E21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "parseSection(lines:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "758EE755-1736-4C06-A4CA-C15AC711B1AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXGroup.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "parseSection(lines:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A8E803F-F09C-4D21-A92E-C7324A2F6906"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "init(text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7488F7EB-DA4A-424C-AC21-3B138C4F3F08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "buldTree()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7488F7EB-DA4A-424C-AC21-3B138C4F3F08 - 8d2e0fb9b4ebfafe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.BPFile.buldTree() -&gt; Swift.Optional&lt;HedgehogTemplate.PBXGroup&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  uuid = "7488F7EB-DA4A-424C-AC21-3B138C4F3F08 - 8d2e0fb9b4ebfafe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.BPFile.buldTree() -&gt; Swift.Optional&lt;HedgehogTemplate.PBXGroup&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C75BB41E-381A-41EB-9059-1A1ABCF1D39B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "buldTree(group:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C75BB41E-381A-41EB-9059-1A1ABCF1D39B - ca69bcbe50eb4929"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in HedgehogTemplate.BPFile.buldTree(group: HedgehogTemplate.PBXGroup) -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "C75BB41E-381A-41EB-9059-1A1ABCF1D39B - ca69bcbe50eb4929"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in HedgehogTemplate.BPFile.buldTree(group: HedgehogTemplate.PBXGroup) -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "121">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDD64986-16DE-40B8-BAB7-C28956D7067B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "buldTree(group:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F3E5A23-886B-4478-B337-C45B7B8ADDB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "findGroup(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F8185F9-7522-4FEA-8BA3-ED8ED855B91D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXSourcesBuildPhase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init?(parseLine:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F8185F9-7522-4FEA-8BA3-ED8ED855B91D - 20bd22afc726e4e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.PBXSourcesBuildPhase.init(parseLine: Swift.String) -&gt; Swift.Optional&lt;HedgehogTemplate.PBXSourcesBuildPhase&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXSourcesBuildPhase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "998">
+               </Location>
+               <Location
+                  uuid = "7F8185F9-7522-4FEA-8BA3-ED8ED855B91D - 20bd22afc726e4e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.PBXSourcesBuildPhase.init(parseLine: Swift.String) -&gt; Swift.Optional&lt;HedgehogTemplate.PBXSourcesBuildPhase&gt;"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXSourcesBuildPhase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D86E8D85-18CA-42BD-9D54-2174E079D646"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/PBXSourcesBuildPhase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init?(parseLine:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5D15566-0D0D-459D-BBC0-989237FCF4C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "addTempete(files:folder:group:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA918E83-26B1-4674-ADCE-9FD45678490F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "addTempete(files:folder:group:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA918E83-26B1-4674-ADCE-9FD45678490F - 285b658d6ccc76af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.BPFile.addTempete(files: Swift.Array&lt;Files.File&gt;, folder: Swift.Array&lt;Files.Folder&gt;, group: HedgehogTemplate.PBXGroup) -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "253">
+               </Location>
+               <Location
+                  uuid = "EA918E83-26B1-4674-ADCE-9FD45678490F - 71fe1404c0a89041"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Files.File) -&gt; (Files.File, HedgehogTemplate.PBXBuildFile) in HedgehogTemplate.BPFile.addTempete(files: Swift.Array&lt;Files.File&gt;, folder: Swift.Array&lt;Files.Folder&gt;, group: HedgehogTemplate.PBXGroup) -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E8241A2-AFF6-4143-916C-9478FCC27DA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "init(text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3454D6F6-DE56-45BB-B4E1-909CBA593520"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "addTempete(files:folder:group:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3454D6F6-DE56-45BB-B4E1-909CBA593520 - 285b658d6ccc7873"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.BPFile.addTempete(files: Swift.Array&lt;Files.File&gt;, folder: Swift.Array&lt;Files.Folder&gt;, group: HedgehogTemplate.PBXGroup) -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "916">
+               </Location>
+               <Location
+                  uuid = "3454D6F6-DE56-45BB-B4E1-909CBA593520 - ae38d44ae0a78577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (HedgehogTemplate.PBXGroup) -&gt; Swift.String in HedgehogTemplate.BPFile.addTempete(files: Swift.Array&lt;Files.File&gt;, folder: Swift.Array&lt;Files.Folder&gt;, group: HedgehogTemplate.PBXGroup) -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8491CC8-0ACF-48CA-ABE4-502473A87DD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/bpParseModel/BPFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "addTempete(files:folder:group:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BB7208D-C879-4035-B3FB-4F01D7FCE362"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HedgehogTemplate/Sources/HedgehogTemplate/TempleteHenghog.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "run()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7BB7208D-C879-4035-B3FB-4F01D7FCE362 - 552a1ce1e0f0d195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HedgehogTemplate.HedgehogTemplate.run() -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "507">
+               </Location>
+               <Location
+                  uuid = "7BB7208D-C879-4035-B3FB-4F01D7FCE362 - 60fdcabb4dd7bea0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Files.Folder) -&gt; Swift.Bool in HedgehogTemplate.HedgehogTemplate.run() -&gt; ()"
+                  moduleName = "HedgehogTemplate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/HedgehogTemplate/Sources/HedgehogTemplate/TempleteHenghog.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83F50F05-F47D-47E3-8519-25F219C6D4FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53F7FC4E-D7CA-4F2E-AC84-D4C69C4DDAE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5904EE37-A519-4815-8440-EA0C223D5BA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10C42F04-CA51-4899-B095-672B21A0559C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0FDDB69-205A-49E5-BAE1-9DC13CDEC1DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69688716-4436-4463-8DF4-AD6E22C4217E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "69688716-4436-4463-8DF4-AD6E22C4217E - 461fbb02218f3098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parse(inpoutText: Swift.String) -&gt; Swift.Array&lt;CommandLineTool.Element&gt;"
+                  moduleName = "CommandLineTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "2785">
+               </Location>
+               <Location
+                  uuid = "69688716-4436-4463-8DF4-AD6E22C4217E - 461fbb02218f3098"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parse(inpoutText: Swift.String) -&gt; Swift.Array&lt;CommandLineTool.Element&gt;"
+                  moduleName = "CommandLineTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pasik/Studies/iosTool/tools/CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "2989">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45D570DE-58BD-4B1A-A524-B38894525148"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5346C6B4-E8F3-486E-BC13-176F455778A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90340563-3067-42D7-BD28-294E31DB070D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D301159-E67F-4E50-A83D-024F3C270815"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D0D229A-A5CB-4AFE-BCAD-5D02D99B79D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CECBF21-F5FC-4A9F-9DE5-B5B3431E8B9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2E53903-DDB5-42C4-B154-10F8B5966F6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "findFirst(pattern:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C82BDDB5-9751-47DF-8F75-6359B6D30DF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7920A98A-57D8-4413-A1D3-C2D40F364EB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "265CFBBF-3681-4791-9BB8-3A82C634D6FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEA1DD72-C586-4A65-935D-71E427D0A98C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29A145F6-E07A-4447-8F7B-AF81313D25AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43002C6F-6D20-4281-AEDB-DFF5A237C889"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A2D90BD-9D2F-4EF3-A4EA-FF6D89F0629E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3915DF8-2EC7-43A5-B09B-8C86618FF608"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD3D82C6-DDBC-4290-B487-5177B7A46088"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACC66799-F77E-42C6-9233-F3BDE7A9540D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08471DDE-2FF6-49B8-9499-AA54B9663215"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CommandLineTool/Sources/CommandLineTool/Model/SwiftFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "parse(inpoutText:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
